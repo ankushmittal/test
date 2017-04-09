@@ -1,2 +1,3 @@
 #ignore all bin directories
 bin/
+.metadata/
